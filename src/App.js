@@ -5,6 +5,7 @@ import FullMovie from "./movie/FullMovie";
 import TheaterList from "./theaters/TheaterList";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
+
 function App() {
   return (
     <Router>
